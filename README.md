@@ -5,7 +5,6 @@
 <h3 align="center">Senior Software Engineer • Full-stack + AI/ML • Córdoba, Argentina</h3>
 <p align="center">
   <a href="mailto:alereyna3051@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-alereyna3051%40gmail.com-red?style=for-the-badge"></a>
-  <a href="[https://www.linkedin.com/in/alejandro-reyna-dev/](https://www.linkedin.com/in/alejandro-reyna-dev/)"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alejandro-%20Reyna-Dev?style=for-the-badge&logo=linkedin"></a>
   <img alt="Location" src="https://img.shields.io/badge/Córdoba-Argentina-3E8E7E?style=for-the-badge">
 </p>
 
